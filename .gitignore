@@ -7,3 +7,5 @@ _site/
 vendor/
 .vscode/
 
+# Ignore macOS folder attributes
+
